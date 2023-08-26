@@ -1,0 +1,6 @@
+.login__button_loading {
+  background-image: url(../../../../images/pen.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 80px 80px;
+}

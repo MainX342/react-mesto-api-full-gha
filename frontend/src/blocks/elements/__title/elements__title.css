@@ -1,0 +1,16 @@
+.elements__title {
+  padding: 0;
+  margin: 0;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 1.21;
+  color: #000;
+  align-self: center;
+  overflow-x: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  grid-row-end: 3;
+  grid-row-start: 1;
+  max-width: calc(100% - 27px);
+}

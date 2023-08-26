@@ -1,0 +1,10 @@
+.loader {
+  width: 130px;
+  height: 130px;
+  background-image: url('data:image/svg+xml,<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><circle fill="%23FFFFFF" cx="32" cy="32" r="28"><animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" repeatCount="indefinite"/></circle><circle fill="none" stroke="%23FFFFFF" stroke-width="4" stroke-miterlimit="10" cx="32" cy="32" r="24"><animate stroke-dasharray="1,200" attributeName="stroke-dashoffset" values="0,-256" keyTimes="0,1" dur="1.5s" repeatCount="indefinite"/><animate attributeName="stroke-width" values="4;1;4" keyTimes="0;0.5;1" dur="1.5s" repeatCount="indefinite"/></circle></svg>');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  align-self: center;
+  justify-self: center;
+}

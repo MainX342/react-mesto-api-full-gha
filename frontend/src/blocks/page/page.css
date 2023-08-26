@@ -1,0 +1,8 @@
+.page {
+  font-family: inter, sans-serif, arial;
+  min-width: 320px;
+  box-sizing: border-box;
+  position: relative;
+  background: #000;
+  text-rendering: optimizeLegibility;
+}

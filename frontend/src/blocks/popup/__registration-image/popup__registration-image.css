@@ -1,0 +1,8 @@
+.popup__registration-image {
+  background-image: url(../../../images/successful.svg);
+  background-position: 50%;
+  background-size: cover;
+  height: 120px;
+  margin-bottom: 32px;
+  width: 120px;
+}

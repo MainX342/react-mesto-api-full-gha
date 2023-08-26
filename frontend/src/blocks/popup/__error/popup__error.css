@@ -1,0 +1,9 @@
+.popup__error {
+  display: flex;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.25;
+  color: red;
+  min-height: 30px;
+  margin-top: 5px;
+}
