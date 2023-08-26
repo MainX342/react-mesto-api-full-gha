@@ -69,7 +69,7 @@ class Api {
 
 // Экземпляр класса API
 const api = new Api({
-  baseUrl: 'http://localhost:3000',
+  baseUrl: 'mainx.backend.nomoredomainsicu.ru',
 });
 
 export default api;
