@@ -69,7 +69,7 @@ class Api {
 
 // Экземпляр класса API
 const api = new Api({
-  baseUrl: 'mainx.backend.nomoredomainsicu.ru',
+  baseUrl: 'https://mainx.backend.nomoredomainsicu.ru',
 });
 
 export default api;

@@ -1,4 +1,4 @@
-const baseUrl = 'mainx.backend.nomoredomainsicu.ru';
+const baseUrl = 'https://mainx.backend.nomoredomainsicu.ru';
 
 function getResponseData(res) {
   return res.ok ? res.json() : Promise.reject(`${res.status} ${res.statusText}`);
